@@ -8,4 +8,6 @@ names.forEach(element => {
   console.log(element)
 });
 
+console.log(`------compatto  --------`)
+
 names.forEach(element => console.log(element))
